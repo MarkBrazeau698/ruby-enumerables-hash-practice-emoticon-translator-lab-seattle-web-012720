@@ -8,6 +8,7 @@ stuff = {
   {
   get_emoticon:
 }
+}
 end
 end
 
