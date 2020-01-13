@@ -3,13 +3,8 @@ require 'pry'
 
 def load_library(stuff)
 YAML.load_file(stuff)
-new = {
-  get_meaning =>,
-  get_emoticon =>
-}
+new = {}
   
-
-end
 end
 
 
