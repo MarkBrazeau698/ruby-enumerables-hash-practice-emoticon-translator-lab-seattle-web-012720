@@ -3,8 +3,8 @@ require 'yaml'
 
 def load_library(stuff)
 YAML.load_file(stuff)
-new = {}
-pp stuff
+new = {stuff}
+
 
 end
 
