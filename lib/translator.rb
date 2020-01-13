@@ -5,7 +5,7 @@ def load_library(stuff)
 YAML.load_file(stuff)
 new = {}
   
-new[get_meaning:[get_emoticon:]]
+new[get_meaning]
 new
 end
 
