@@ -4,9 +4,8 @@ require 'pry'
 def load_library(stuff)
 YAML.load_file(stuff)
 new = {}
-stuff.each do | get_meaning |
   
-  new[get_meaning]
+new[get_meaning]
 
 end
 end
