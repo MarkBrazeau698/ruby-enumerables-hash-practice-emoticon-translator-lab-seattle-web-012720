@@ -6,7 +6,7 @@ YAML.load_file(stuff)
 new = {}
 stuff.each do | get_meaning |
   
-  new << 
+  new[get_meaning]
 
   
 end
