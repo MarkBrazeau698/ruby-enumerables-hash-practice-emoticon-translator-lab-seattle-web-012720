@@ -5,7 +5,7 @@ def load_library(stuff)
 YAML.load_file(stuff)
 new = {}
 
-binding.pry
+
   
 end
 
