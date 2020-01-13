@@ -7,7 +7,7 @@ stuff = {
   get_meaning:
   {
   get_emoticon:
-}}
+}
 end
 end
 
