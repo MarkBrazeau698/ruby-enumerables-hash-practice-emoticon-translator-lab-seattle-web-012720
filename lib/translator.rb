@@ -6,7 +6,7 @@ YAML.load_file(stuff)
 new = {}
   
 new[get_meaning]
-new
+
 end
 
 
