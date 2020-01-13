@@ -4,10 +4,7 @@ require 'yaml'
 def load_library(stuff)
 YAML.load_file(stuff)
 stuff = {}
-stuff.each do | meaning, emoticon |
-end
-stuff << [meaning]
-stuff << [emoticon]
+
 
 end
 
