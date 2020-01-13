@@ -7,7 +7,7 @@ stuff = {}
 stuff[get_meaning:]
   
 end
-
+end
 
 def get_japanese_emoticon
   # code goes here
