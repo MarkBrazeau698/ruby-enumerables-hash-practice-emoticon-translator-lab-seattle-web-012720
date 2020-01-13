@@ -7,7 +7,7 @@ emoticon_hash = Hash.new
 emoticon_hash["get_emoticon"] = Hash.new  
 emoticon_hash["get_meaning"] = Hash.new
 
-emoticons.each do | english_meaning
+emoticons.each do | english_word, emoticon_set |
 emoticon_hash
 end
 
