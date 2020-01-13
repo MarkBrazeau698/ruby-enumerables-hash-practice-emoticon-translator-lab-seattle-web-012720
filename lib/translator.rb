@@ -8,7 +8,7 @@ stuff.each do | get_meaning |
   
   new[get_meaning]
 
-  
+end
 end
 
 
