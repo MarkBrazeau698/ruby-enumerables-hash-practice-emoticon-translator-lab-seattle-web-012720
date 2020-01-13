@@ -15,7 +15,7 @@ emoticon_hash
 end
 
 
-def get_japanese_emoticon
+def get_japanese_emoticon(stuff, emoticon)
   
 end
 
