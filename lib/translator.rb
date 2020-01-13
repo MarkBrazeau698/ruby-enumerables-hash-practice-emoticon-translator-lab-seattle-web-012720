@@ -4,9 +4,9 @@ require 'yaml'
 def load_library(stuff)
 YAML.load_file(stuff)
 stuff = {
-  get_meaning:
+  get_meaning=>
   {
-  get_emoticon:
+  get_emoticon=>
 }
 }
 end
